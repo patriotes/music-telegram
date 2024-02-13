@@ -7,7 +7,7 @@
 <h4 align="center">A Telegram bot to download music from Deezer and YouTube</h4>
 
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/kernoeb/Telegramusic">
+<a href="https://heroku.com/deploy?template=https://github.com/patriotes/music-telegram">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
